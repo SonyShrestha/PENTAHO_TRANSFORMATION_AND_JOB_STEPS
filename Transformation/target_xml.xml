@@ -1,0 +1,14 @@
+<OrderHeader customerNumber="1000" orderDate="19700101" orderNumber="4711" orderType="AN"
+   originator="G">
+            <OrderLines>
+            </OrderLines>
+            <OrderHeaderComments>
+            </OrderHeaderComments>
+   </OrderHeader>
+   <OrderHeader customerNumber="1001" orderDate="19700101" orderNumber="4712" orderType="AN"
+   originator="G">
+            <OrderLines>
+            </OrderLines>
+            <OrderHeaderComments>
+            </OrderHeaderComments>
+   </OrderHeader>
